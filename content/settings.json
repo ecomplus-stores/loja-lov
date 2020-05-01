@@ -4,8 +4,8 @@
   "domain": "loja-lov.netlify.app",
   "short_name": "lojalov",
   "description": "A Loja LOV é uma loja virtual. Trabalhamos com produtos sensuais promovendo prazer e bem-estar. Selecionamos as melhores marcas e produtos para facilitar a escolha, garantia de satisfação, agregando valor à sua vida sexual. Tudo isso para lhe oferecer inovação e qualidade de atendimento. Não temos loja física. Na cidade de Marília - SP, oferecemos atendimento individualizado com horário agendado. Entregamos para todo Brasil em embalagem discreta via Correios.",
-  "primary_color": "B20000",
-  "secondary_color": "B20000",
+  "primary_color": "#b20000",
+  "secondary_color": "#b20000",
   "bg_color": "#9b9b9b",
   "theme": {
     "bootswatch": "_"
