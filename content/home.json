@@ -37,8 +37,8 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "responsive-banner",
+      "img": "/img/uploads/bannertarja.png"
     },
     {
       "type": "collection-shelf",
