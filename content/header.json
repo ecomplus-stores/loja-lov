@@ -1,17 +1,13 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "ESTÁ É A NOVA LOJA LOV! FIQUE A VONTADE E EM CASO DE DÚVIDAS CLIQUE AQUI PARA FALAR CONOSCO",
+    "link": "https://api.whatsapp.com/send?phone=5514997129701&text=Ol%C3%A1,%20estou%20no%20site%20da%20LOV,%20pode%20me%20ajudar?"
   },
   "contacts_stripe": {
     "pages": [
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
     "phone_wpp": true,
@@ -19,7 +15,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6
+    "random": 0
   },
   "search_input": true
 }

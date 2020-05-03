@@ -4,17 +4,26 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
-    "title": "Pages",
-    "list": []
+    "list_pages": false,
+    "title": "Institucional",
+    "list": [
+      {
+        "text": "A LOV",
+        "url": "/pages/sobre-nos"
+      },
+      {
+        "text": "Sex Shop Bauru - SP",
+        "url": "/pages/sex-shop-bauru-sp"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
-    "title": "Categories",
+    "title": "Categorias",
     "list": []
   },
   "contacts": {
-    "title": "Contacts",
+    "title": "Contatos",
     "phone_wpp": true,
     "socials": true,
     "email": true,
@@ -23,11 +32,22 @@
   "stamps": [
     {
       "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
+      "alt": "Conexão Segura",
+      "link": "https://www.ssllabs.com/ssltest/analyze.html?d=www.lojalov.com.br"
+    },
+    {
+      "src": "/img/uploads/2000202.png",
+      "link": "https://www.compreconfie.com.br/lojalov",
+      "alt": "Compre & Confie"
+    },
+    {
+      "src": "/img/uploads/selo_safebrowsinlov.png",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.lojalov.com.br",
+      "alt": "Conexão Segura Google"
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -35,12 +55,14 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
+    "diners": false,
     "mais": false,
-    "itau": true
+    "amex": false,
+    "itau": false
   },
-  "credits": ""
+  "credits": "Loja LOV - CNPJ: 32.868.856/0001-70 © Todos os direitos reservados"
 }

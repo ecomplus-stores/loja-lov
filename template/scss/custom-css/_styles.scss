@@ -1,1 +1,38 @@
 // Add your custom CSS here.
+// icon size
+.menu__item-icon > img {
+  max-width: 240% !important;
+  max-height: 200% !important;
+}
+.menu__item-icon {
+  margin-right: 3.1rem !important;
+}
+// color of menu button
+.menu__btn--close svg, .menu__btn.btn.collapsed svg, .header__search-btn svg {
+  color: #b20000;
+}
+//footer
+.footer__credits {
+  text-align: center;
+}
+// header
+.top-bar, .header {
+  background-color: #fff;
+}
+#search-form {
+  border: 1px solid #000;
+  border-radius: .3rem;
+}
+// main
+.products-carousel__title a::after {
+  content: ' + Ver mais';
+  font-size: 0.80rem;
+  font-weight: bold;
+  padding:  0.5rem;
+  color: #9d0b0b !important;
+}
+.products-carousel__title {
+text-transform: uppercase;
+color: #9D0B0B;
+font-weight: 700;
+}

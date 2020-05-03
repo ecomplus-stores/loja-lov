@@ -1,18 +1,18 @@
 {
   "shipping": {
-    "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Frete grátis para compras acima de R$ 250,00 (Região sudeste)",
+    "show": true
   },
   "installments": {
-    "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele em até 12x no cartão",
+    "show": true
   },
   "exchange": {
-    "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "30 dias para a troca do produto",
+    "show": true
   },
   "promo": {
-    "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "5% de desconto à vista no boleto",
+    "show": true
   }
 }
