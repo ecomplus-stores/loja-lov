@@ -51,9 +51,24 @@
       "collection_id": "5e691aa27e65524614885372"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/sugadores.jpg",
+      "link": "https://www.lojalov.com.br/vibratissimo-secret-kiss-licker"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5e691afa7e6552461488537e"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-lapimiente.jpeg",
+      "link": "https://www.lojalov.com.br/marca/la-pimienta"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5e691ab57e65524614885375"
     }
   ]
 }
