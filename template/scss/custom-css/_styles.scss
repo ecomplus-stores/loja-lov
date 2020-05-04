@@ -32,7 +32,54 @@
   color: #9d0b0b !important;
 }
 .products-carousel__title {
-text-transform: uppercase;
-color: #9D0B0B;
-font-weight: 700;
+  text-transform: uppercase;
+  color: #9D0B0B;
+  font-weight: 700;
+}
+.prices.product-card__prices {
+  display: flex !important;
+  flex-direction: column;
+}
+.prices .prices__value {
+   order: 3;
+   font-size: var(--font-size)
+}
+.product-card__prices .prices__value:first-child {
+    margin-top: unset;
+}
+.prices .prices__installments {
+  order: 1;
+}
+.prices .prices__installments span {
+  font-size: var(--font-size-lg);
+  color: #b20000;
+}
+.prices .prices__installments span::before {
+  font-size: var(--font-size);
+  content: ' de ';
+  color: #000;
+}
+.prices .prices__compare {
+  order: 2
+}
+.prices .prices__discount {
+  display: none;
+}
+@media  screen and (min-width: 1341px) {
+
+}
+
+//desktop normal size
+@media  screen and (min-width: 998px) and (max-width: 1340px) {
+  .banner-slider {
+    max-width: 100%;
+  }
+}
+// apenas tablet
+@media screen and (min-width: 481px) and (max-width: 997px) {
+
+}
+// apenas mobile
+@media screen and (max-width: 480px) {
+
 }
