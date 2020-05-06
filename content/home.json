@@ -7,13 +7,6 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/15839329345147.jpeg",
-          "alt": "Gel vibrador",
-          "link": "/",
-          "start": "",
-          "end": ""
-        },
-        {
           "img": "/img/uploads/banner_vibradores.png",
           "link": "/",
           "alt": "Vibradores",
@@ -21,18 +14,9 @@
           "end": "2020-12-31T03:00:00.000Z"
         },
         {
-          "img": "/img/uploads/xsegredinho.jpg",
-          "alt": "Segredinho Gel Excitante Feminino - Feitiços",
-          "link": "/",
-          "start": "",
-          "end": ""
-        },
-        {
-          "img": "/img/uploads/lapimienta.jpeg",
-          "alt": "Dessensibilizante anal",
-          "link": "/",
-          "start": "",
-          "end": ""
+          "start": "2020-05-06T15:58:25.959Z",
+          "end": "",
+          "img": "/img/uploads/bannerentrega2.webp"
         }
       ]
     },
