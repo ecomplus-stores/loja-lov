@@ -53,16 +53,16 @@
     "aura": false,
     "banrisul": false,
     "elo": true,
-    "hipercard": false,
+    "hipercard": true,
     "hsbc": false,
     "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
-    "diners": false,
+    "diners": true,
     "mais": false,
-    "amex": false,
-    "itau": false
+    "amex": true,
+    "itau": true
   },
   "credits": "Loja LOV - CNPJ: 32.868.856/0001-70 © Todos os direitos reservados"
 }
