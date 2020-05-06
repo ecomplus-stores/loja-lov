@@ -89,3 +89,11 @@
 @media screen and (max-width: 480px) {
 
 }
+.minicart__btn-checkout.btn, .cart__info .cart__btn-checkout {
+  font-size: 0px;
+}
+.minicart__btn-checkout.btn::after, .minicart__btn-checkout.btn svg, .cart__info .cart__btn-checkout::after, .cart__info .cart__btn-checkout svg {
+  font-size: 1rem !important;
+  content: 'Finalizar compra';
+  margin-left: .2rem;
+}
