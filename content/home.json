@@ -31,9 +31,25 @@
       "collection_id": "5e691aa27e65524614885372"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/sugadores.jpg",
-      "link": "https://www.lojalov.com.br/vibratissimo-secret-kiss-licker"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2020-05-06T21:47:39.922Z",
+          "end": "",
+          "img": "/img/uploads/sugadores.jpg"
+        },
+        {
+          "start": "2020-05-06T21:48:04.530Z",
+          "end": "",
+          "img": "/img/uploads/sugadores2.png"
+        },
+        {
+          "start": "2020-05-06T21:48:43.576Z",
+          "end": "",
+          "img": "/img/uploads/sugadores3.png"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
