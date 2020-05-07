@@ -69,10 +69,6 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5e691ab57e65524614885375"
-    },
-    {
-      "type": "custom-html",
-      "html": "<!-- LightWidget WIDGET --><script src=\"https://cdn.lightwidget.com/widgets/lightwidget.js\"></script><iframe src=\"//lightwidget.com/widgets/c4f6a8896acf54d5a187818249ab523d.html\" scrolling=\"no\" allowtransparency=\"true\" class=\"lightwidget-widget\" style=\"width:100%;border:0;overflow:hidden;\"></iframe>"
     }
   ]
 }
