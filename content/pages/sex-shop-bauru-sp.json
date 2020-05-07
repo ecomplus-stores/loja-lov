@@ -9,6 +9,10 @@
       "shuffle": true,
       "collection_id": "5e691aa27e65524614885372",
       "title": "Produtos mais vendidos em Bauru – SP"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
     }
   ]
 }
