@@ -8,6 +8,10 @@
   "meta_description": "Esta loja é um JAMstack PWA",
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "type": "blog-post",
       "enabled": true
     }
