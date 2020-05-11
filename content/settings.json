@@ -1,22 +1,22 @@
 {
-  "store_id": 1073,
-  "name": "Loja Lov",
   "domain": "lov-store.netlify.app",
-  "short_name": "lojalov",
-  "description": "A Loja LOV é uma loja virtual. Trabalhamos com produtos sensuais promovendo prazer e bem-estar. Selecionamos as melhores marcas e produtos para facilitar a escolha, garantia de satisfação, agregando valor à sua vida sexual. Tudo isso para lhe oferecer inovação e qualidade de atendimento. Não temos loja física. Na cidade de Marília - SP, oferecemos atendimento individualizado com horário agendado. Entregamos para todo Brasil em embalagem discreta via Correios.",
+  "currency_symbol": "R$",
   "primary_color": "#b20000",
-  "secondary_color": "#b20000",
-  "bg_color": "#9b9b9b",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "cerulean"
   },
+  "bg_color": "#9b9b9b",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/uploads/favicon.gif",
-  "large_icon": "/img/uploads/cfda8551d501df54d2bc022d017dc1a1.jpg",
-  "favicon": "/img/uploads/favicon.gif",
+  "name": "Loja Lov",
+  "short_name": "lojalov",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.gif",
+  "country_code": "BR",
+  "secondary_color": "#b20000",
+  "icon": "/img/uploads/favicon.gif",
+  "store_id": 1073,
+  "description": "A Loja LOV é uma loja virtual. Trabalhamos com produtos sensuais promovendo prazer e bem-estar. Selecionamos as melhores marcas e produtos para facilitar a escolha, garantia de satisfação, agregando valor à sua vida sexual. Tudo isso para lhe oferecer inovação e qualidade de atendimento. Não temos loja física. Na cidade de Marília - SP, oferecemos atendimento individualizado com horário agendado. Entregamos para todo Brasil em embalagem discreta via Correios.",
+  "large_icon": "/img/uploads/cfda8551d501df54d2bc022d017dc1a1.jpg"
 }
