@@ -63,7 +63,7 @@
   order: 2
 }
 .prices .prices__discount {
-  display: none;
+  order: 3
 }
 .shipping-calculator__services::before {
   content: 'Frete grátis acima de R$ 250,00 para região sudeste';
