@@ -1,5 +1,5 @@
 {
   "css": "",
-  "html_head": "",
+  "html_head": "<link href=\"https://fonts.googleapis.com/css2?family=Ubuntu&display=swap\" rel=\"stylesheet\">",
   "html_body": ""
 }
