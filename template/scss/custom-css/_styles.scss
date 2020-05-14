@@ -1,4 +1,8 @@
 // Add your custom CSS here.
+// Fonte loja
+p {
+  font-family: $font-family-sans-serif;
+}
 // icon size
 .menu__item-icon > img {
   max-width: 240% !important;
