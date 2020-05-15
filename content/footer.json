@@ -12,12 +12,12 @@
         "url": "/pages/sobre-a-loja-lov"
       },
       {
-        "text": "Sex Shop Bauru - SP",
-        "url": "/pages/sex-shop-bauru-sp"
-      },
-      {
         "text": "Central de Atendimento",
         "url": "https://lov-store.netlify.app/pages/central-de-atendimento"
+      },
+      {
+        "text": "Sex Shop Bauru - SP",
+        "url": "/pages/sex-shop-bauru-sp"
       }
     ]
   },
