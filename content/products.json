@@ -19,14 +19,6 @@
     {
       "type": "product-specifications",
       "enabled": true
-    },
-    {
-      "type": "custom-content",
-      "markdown": "<span>Teste markdown para html na página de produtos</span>"
-    },
-    {
-      "type": "custom-content",
-      "markdown": "**Teste markdown respeita as regras**"
     }
   ]
 }
