@@ -25,16 +25,6 @@
       "img": "/img/uploads/banner-tarja.png"
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2020-05-18T17:09:17.724Z",
-      "end": "2020-05-19T17:09:17.789Z",
-      "offers": [
-        "5ebc5929126b0d0572132457"
-      ],
-      "notes": "ÚLTIMA PEÇA! NÃO PERCA ESSA OFERTA ESPECIAL QUE VOCÊ SÓ ENCONTRA AQUI NA LOJA LOV!"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5e691ad87e65524614885379"
