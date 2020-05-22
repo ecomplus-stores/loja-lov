@@ -1,5 +1,5 @@
 {
   "css": "",
   "html_head": "<link href=\"https://fonts.googleapis.com/css2?family=Ubuntu&display=swap\" rel=\"stylesheet\">",
-  "html_body": "<div id=\"reputation-ra\"><script type=\"text/javascript\" id=\"ra-embed-reputation\" src=\"https://s3.amazonaws.com/raichu-beta/selos/bundle.js\" data-id=\"aW9NT0RSN1pCX1VkeDJCZjpsb2phLWxvdg==\" data-target=\"reputation-ra\" data-model=\"2\"></script></div>"
+  "html_body": ""
 }
