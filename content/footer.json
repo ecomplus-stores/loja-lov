@@ -35,6 +35,10 @@
   },
   "stamps": [
     {
+      "src": "/img/uploads/fale_whatsapp.png",
+      "link": "https://api.whatsapp.com/send?phone=5514997129701&text=Ol%C3%A1,%20estou%20no%20site%20da%20LOV,%20pode%20me%20ajudar?"
+    },
+    {
       "src": "/img/uploads/selo-letsencrypt.png",
       "link": "https://www.ssllabs.com/ssltest/analyze.html?d=www.lojalov.com.br",
       "alt": "Conexão 100% Segura"
