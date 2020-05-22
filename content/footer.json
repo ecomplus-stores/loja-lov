@@ -35,9 +35,9 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Conexão Segura",
-      "link": "https://www.ssllabs.com/ssltest/analyze.html?d=www.lojalov.com.br"
+      "src": "/img/uploads/selo-letsencrypt.png",
+      "link": "https://www.ssllabs.com/ssltest/analyze.html?d=www.lojalov.com.br",
+      "alt": "Conexão 100% Segura"
     },
     {
       "src": "/img/uploads/selo_intimi.png"
