@@ -38,10 +38,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/cosmeticos_peq2.png"
+          "img": "/img/uploads/cosmeticos_peq2.png",
+          "link": "https://www.lojalov.com.br/cosmeticos"
         },
         {
-          "img": "/img/uploads/vibradores_peq1.png"
+          "img": "/img/uploads/vibradores_peq1.png",
+          "link": "https://www.lojalov.com.br/vibrador"
         }
       ]
     },
