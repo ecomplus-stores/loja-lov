@@ -13,7 +13,27 @@
       },
       {
         "text": "Central de Atendimento",
-        "url": "https://lov-store.netlify.app/pages/contato"
+        "url": "/pages/contato"
+      },
+      {
+        "url": "/pages/faq",
+        "text": "Dúvidas Frequentes"
+      },
+      {
+        "text": "Formas de Pagamento",
+        "url": "/pages/pagamentos"
+      },
+      {
+        "text": "Política de Privacidade",
+        "url": "/pages/privacidade"
+      },
+      {
+        "text": "Termos de Serviços",
+        "url": "/pages/termos"
+      },
+      {
+        "text": "Trocas, Devoluções e GarantiA",
+        "url": "/pages/troca"
       }
     ]
   },
