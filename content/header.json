@@ -8,6 +8,10 @@
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-a-loja-lov"
+      },
+      {
+        "title": "Blog da LOV",
+        "link": "https://blog.lojalov.com.br/"
       }
     ],
     "phone_wpp": true,
