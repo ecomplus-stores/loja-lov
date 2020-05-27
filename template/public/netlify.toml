@@ -1,0 +1,17 @@
+[[redirects]]
+ from = "/pagina/sex-shop-assis"
+ to = "/pages/sex-shop-assis-sp"
+ status = 301
+ force = true
+
+ [[redirects]]
+ from = "/pagina/contato"
+ to = "/pages/contato"
+ status = 301
+ force = true
+ 
+  [[redirects]]
+ from = "/pagina/entrega"
+ to = "/pages/entrega"
+ status = 301
+ force = true
