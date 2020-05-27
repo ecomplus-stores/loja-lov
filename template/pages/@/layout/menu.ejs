@@ -86,15 +86,15 @@ if (mainCategories) {
               <% const hasSubmenu = Array.isArray(categoryParents[subcategory.slug]) %>
               <a
                 <% if (hasSubmenu) { %>
-                  href="#a-<%= subcategory._id %>"
+                  href="#a-<%= subcategory.slug %>"
                   data-toggle="collapse"
                   role="button"
                   aria-expanded="false"
                   aria-controls="a-<%= subcategory.slug %>"
                 <% } else { %>
-                  href="/<%= subcategory._id %>"
+                  href="/<%= subcategory.slug %>"
                 <% } %>
-                id="c-<%= subcategory._id %>"
+                id="c-<%= subcategory.slug %>"
                 class="menu__item"
               >
                 <% if (subcategory.icon) { %>
@@ -113,7 +113,7 @@ if (mainCategories) {
           </div>
 
           <% if (category && category.slug) { %>
-            <a href="/<%= category._id %>" class="menu__link">
+            <a href="/<%= category.slug %>" class="menu__link">
               <%= _.dictionary('seeAll$1Category').replace('$1', category.name) %>
             </a>
           <% } %>
