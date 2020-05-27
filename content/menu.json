@@ -1,13 +1,13 @@
 {
   "sort_categories": [
-    "acessorios",
-    "cosmeticos",
-    "sado-e-fetiche",
-    "lingerie",
-    "vibrador",
-    "pompoarismo",
-    "penis",
-    "prazer-anal"
+    "acessorios/",
+    "cosmeticos/",
+    "sado-e-fetiche/",
+    "lingerie/",
+    "vibrador/",
+    "pompoarismo/",
+    "penis/",
+    "prazer-anal/"
   ],
   "phone_wpp": true,
   "socials": true
