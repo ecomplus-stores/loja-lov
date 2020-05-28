@@ -55,16 +55,16 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/whatsapp_front.png",
+      "src": "/img/uploads/whatsapp_front.webp",
       "link": "https://api.whatsapp.com/send?phone=5514997129701&text=Ol%C3%A1,%20estou%20no%20site%20da%20LOV,%20pode%20me%20ajudar?"
     },
     {
-      "src": "/img/uploads/selo-letsencrypt.png",
+      "src": "/img/uploads/selo-letsencrypt.webp",
       "link": "https://www.ssllabs.com/ssltest/analyze.html?d=www.lojalov.com.br",
       "alt": "Conexão 100% Segura"
     },
     {
-      "src": "/img/uploads/selo_intimi.png"
+      "src": "/img/uploads/selo_intimi.webp"
     }
   ],
   "payment_methods": {
