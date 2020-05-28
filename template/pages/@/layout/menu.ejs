@@ -53,7 +53,7 @@ if (mainCategories) {
             class="collapse show"
             aria-expanded="true"
           <% } else { %>
-            id="a-<%= _id %>"
+            id="a-<%= slug %>"
             class="collapse"
             aria-expanded="false"
           <% } %>
@@ -94,7 +94,7 @@ if (mainCategories) {
                 <% } else { %>
                   href="/<%= subcategory.slug %>"
                 <% } %>
-                id="c-<%= subcategory.slug %>"
+                id="c-<%= subcategory._id %>"
                 class="menu__item"
               >
                 <% if (subcategory.icon) { %>
