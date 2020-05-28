@@ -1,5 +1,4 @@
 {
-  "store_id": 1073,
   "domain": "www.lojalov.com.br",
   "currency_symbol": "R$",
   "primary_color": "#b20000",
@@ -7,7 +6,7 @@
     "bootswatch": "litera"
   },
   "bg_color": "#9b9b9b",
-  "logo": "/img/uploads/logo.jpg",
+  "logo": "/img/uploads/logo.webp",
   "name": "Loja Lov",
   "short_name": "lojalov",
   "lang": "pt_br",
@@ -17,6 +16,7 @@
   "country_code": "BR",
   "secondary_color": "#b20000",
   "icon": "/img/uploads/coracao.png",
+  "store_id": 1073,
   "description": "A Loja LOV é uma loja virtual. Trabalhamos com produtos sensuais promovendo prazer e bem-estar. Selecionamos as melhores marcas e produtos para facilitar a escolha, garantia de satisfação, agregando valor à sua vida sexual. Tudo isso para lhe oferecer inovação e qualidade de atendimento. Não temos loja física. Na cidade de Marília - SP, oferecemos atendimento individualizado com horário agendado. Entregamos para todo Brasil em embalagem discreta via Correios.",
   "large_icon": "/img/uploads/coracao.png"
 }
