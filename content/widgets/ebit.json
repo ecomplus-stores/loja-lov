@@ -1,11 +1,11 @@
 {
   "pkg": "@ecomplus/widget-ebit",
-  "active": false,
+  "active": true,
   "desktopOnly": false,
   "enableCheckout": true,
   "disablePages": true,
   "options": {
-    "ebitStoreId": ""
+    "ebitStoreId": "98957"
   },
   "stampsAppend": "src/append/stamps"
 }
