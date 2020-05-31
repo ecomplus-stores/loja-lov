@@ -62,9 +62,6 @@
       "src": "/img/uploads/selo-letsencrypt.webp",
       "link": "https://www.ssllabs.com/ssltest/analyze.html?d=www.lojalov.com.br",
       "alt": "Conexão 100% Segura"
-    },
-    {
-      "src": "/img/uploads/selo_intimi.webp"
     }
   ],
   "payment_methods": {
