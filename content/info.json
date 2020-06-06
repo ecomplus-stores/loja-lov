@@ -9,7 +9,7 @@
   },
   "exchange": {
     "text": "30 dias para a troca do produto",
-    "show": true
+    "show": false
   },
   "promo": {
     "text": "5% de desconto à vista no boleto e/ou Depósito",
