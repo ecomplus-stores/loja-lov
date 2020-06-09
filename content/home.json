@@ -13,10 +13,11 @@
           "mobile_img": "/img/uploads/lov_banner_site1-diadosnamorados.webp"
         },
         {
-          "start": "2020-06-09T15:20:59.881Z",
-          "end": "2020-06-09T15:20:59.925Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/lov-banner-presentes-joias-site-.webp",
-          "mobile_img": "/img/uploads/lov-posts-presentes-joias-site.webp"
+          "mobile_img": "/img/uploads/lov-posts-presentes-joias-site.webp",
+          "link": "https://www.lojalov.com.br/plug-de-metal"
         }
       ]
     },
