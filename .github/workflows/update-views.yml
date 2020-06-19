@@ -7,8 +7,10 @@ on:
     branches:
       - master
     paths:
-      - 'package.json'
       - '.github/update-views'
+  pull_request:
+    paths:
+      - 'package.json'
 
 jobs:
   update-views:
@@ -18,6 +20,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v1
+        with:
+          ref: master
 
       - name: Config Git user
         run: |
