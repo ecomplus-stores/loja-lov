@@ -1,5 +1,6 @@
 {
   "store_id": 1073,
+  "name": "Loja Lov",
   "domain": "www.lojalov.com.br",
   "currency_symbol": "R$",
   "primary_color": "#b20000",
@@ -8,7 +9,6 @@
   },
   "bg_color": "#9b9b9b",
   "logo": "/img/uploads/logo.webp",
-  "name": "Loja Lov",
   "short_name": "lojalov",
   "lang": "pt_br",
   "currency": "BRL",
