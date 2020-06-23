@@ -12,7 +12,7 @@ p {
   margin-right: 3.1rem !important;
 }
 // color of menu button
-.menu__btn--close svg, .menu__btn.btn.collapsed svg, .header__search-btn svg {
+.menu__btn--close i, .menu__btn.btn.collapsed i, .header__search-btn i {
   color: #b20000;
 }
 //footer
@@ -96,7 +96,7 @@ p {
 .minicart__btn-checkout.btn, .cart__info .cart__btn-checkout {
   font-size: 0px;
 }
-.minicart__btn-checkout.btn::after, .minicart__btn-checkout.btn svg, .cart__info .cart__btn-checkout::after, .cart__info .cart__btn-checkout svg {
+.minicart__btn-checkout.btn::after, .minicart__btn-checkout.btn i, .cart__info .cart__btn-checkout::after, .cart__info .cart__btn-checkout i {
   font-size: 1rem !important;
   content: 'Finalizar compra';
   margin-left: .2rem;
