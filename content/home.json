@@ -9,15 +9,15 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/lov-banner-presentes-joias-site-.png",
-          "mobile_img": "/img/uploads/lov-posts-presentes-joias-site.webp",
-          "link": "https://www.lojalov.com.br/plug-de-metal"
+          "img": "/img/uploads/lov_bannerssite-fireice-retangular-site.webp",
+          "mobile_img": "/img/uploads/lov_bannerssite-fireice-quadrado.webp"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/lov_banner-novosite.webp",
-          "mobile_img": "/img/uploads/lov_post1-novosite1.png"
+          "img": "/img/uploads/lov-banner-presentes-joias-site-.webp",
+          "mobile_img": "/img/uploads/lov-posts-presentes-joias-site.webp",
+          "link": "https://www.lojalov.com.br/plug-de-metal"
         }
       ]
     },
