@@ -9,6 +9,13 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner_hard2.webp",
+          "mobile_img": "/img/uploads/banner_hard1.webp",
+          "link": "https://www.lojalov.com.br/plug-de-metal"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/lov_bannerssite-fireice-retangular-site.webp",
           "mobile_img": "/img/uploads/lov_bannerssite-fireice-quadrado.webp"
         },
