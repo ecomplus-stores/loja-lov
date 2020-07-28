@@ -56,7 +56,8 @@
   "stamps": [
     {
       "src": "/img/uploads/whatsapp_front.webp",
-      "link": "https://api.whatsapp.com/send?phone=5514997129701&text=Ol%C3%A1,%20estou%20no%20site%20da%20LOV,%20pode%20me%20ajudar?"
+      "link": "https://api.whatsapp.com/send?phone=5514997129701&text=Ol%C3%A1,%20estou%20na%20Loja%20LOV,%20pode%20me%20ajudar?",
+      "alt": "Dúvidas? Fala com a gente no Whats!"
     },
     {
       "src": "/img/uploads/selo-letsencrypt.webp",
