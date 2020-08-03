@@ -9,6 +9,13 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/vibre_1.webp",
+          "link": "https://www.lojalov.com.br/vibradores-linha-premium/",
+          "mobile_img": "/img/uploads/vibre_2.webp"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/linha_dark-1.webp",
           "link": "https://www.lojalov.com.br/search?term=dark",
           "mobile_img": "/img/uploads/linha_dark-2.webp"
@@ -26,12 +33,6 @@
           "img": "/img/uploads/banner_hard2.webp",
           "mobile_img": "/img/uploads/banner_hard1.webp",
           "link": "https://www.lojalov.com.br/search?term=hard"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/lov_bannerssite-fireice-retangular-site.webp",
-          "mobile_img": "/img/uploads/lov_bannerssite-fireice-quadrado.webp"
         }
       ]
     },
