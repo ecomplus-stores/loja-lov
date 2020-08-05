@@ -11,28 +11,23 @@
           "end": "",
           "img": "/img/uploads/vibre_1.webp",
           "link": "https://www.lojalov.com.br/vibradores-linha-premium/",
-          "mobile_img": "/img/uploads/vibre_2.webp"
+          "mobile_img": "/img/uploads/vibre_2.webp",
+          "alt": "Vibradores incríveis que vão fazer seu momento a dois ou sozinhe incríveis!"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/linha_dark-1.webp",
-          "link": "https://www.lojalov.com.br/search?term=dark",
-          "mobile_img": "/img/uploads/linha_dark-2.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner_domi.webp",
-          "link": "https://www.lojalov.com.br/sado-e-fetiche/",
-          "mobile_img": "/img/uploads/banner_domi_mobile.webp"
+          "img": "/img/uploads/frete_gratis_full.webp",
+          "mobile_img": "/img/uploads/frete_gratis_mobile.webp",
+          "alt": "Frete Grátis nas compras acima de R$ 250,00 para região Sudeste"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner_hard2.webp",
           "mobile_img": "/img/uploads/banner_hard1.webp",
-          "link": "https://www.lojalov.com.br/search?term=hard"
+          "link": "https://www.lojalov.com.br/search?term=hard",
+          "alt": "Os melhores plugs para seu total prazer"
         }
       ]
     },
@@ -55,15 +50,24 @@
       "title": "OS MELHORES PRODUTOS PARA VOCÊ"
     },
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 6000,
+      "slides": [
         {
-          "img": "/img/uploads/cosmeticos_peq2.png",
-          "link": "https://www.lojalov.com.br/cosmeticos"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_domi.webp",
+          "link": "https://www.lojalov.com.br/sado-e-fetiche/",
+          "alt": "Nossa linha sado foi feita para você liberar seus fetiches",
+          "mobile_img": "/img/uploads/banner_domi_mobile.webp"
         },
         {
-          "img": "/img/uploads/vibradores_peq1.png",
-          "link": "https://www.lojalov.com.br/vibrador"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/linha_dark-1.webp",
+          "link": "https://www.lojalov.com.br/search?term=dark",
+          "alt": "Os cosméticos da linha Dark foram desenvolvidos para você que não tem medo de ousar",
+          "mobile_img": "/img/uploads/linha_dark-2.webp"
         }
       ]
     },
