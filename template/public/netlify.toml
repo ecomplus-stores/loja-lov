@@ -1,3 +1,6 @@
+[build]
+  command = "echo 'pre-rendered'"
+
 [[redirects]]
  from = "/pagina/sex-shop-assis"
  to = "/pages/sex-shop-assis-sp"
