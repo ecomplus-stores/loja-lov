@@ -95,11 +95,13 @@ if (header.categories_list) {
             <% } %>
             <% if (contacts.phone) { %>
               <a
-                href="tel:+<%= contacts.phone.replace(/\D/g, '') %>"
+                href="javascript:;"
                 target="_blank"
                 rel="noopener"
+                class="whatsapp-link"
+                data-tel="<%= contacts.phone.replace(/\D/g, '') %>"
               >
-                <i class="fas fa-phone"></i>
+                <i class="fab fa-whatsapp"></i>
                 <%= contacts.phone %>
               </a>
             <% } %>
