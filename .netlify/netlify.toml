@@ -1,3 +1,63 @@
+[[redirects]]
+  from = "/pagina/sex-shop-assis"
+  to = "/pages/sex-shop-assis-sp"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/contato"
+  to = "/pages/contato"
+  status = 301
+  force = true
+ 
+[[redirects]]
+  from = "/pagina/entrega"
+  to = "/pages/entrega"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/duvidas"
+  to = "/pages/faq"
+  status = 301
+  force = true
+ 
+[[redirects]]
+  from = "/pagina/pagamento"
+  to = "/pages/pagamentos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/privacidade"
+  to = "/pages/privacidade"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/sex-shop-bauru"
+  to = "/pages/sex-shop-bauru-sp"
+  status = 301
+  force = true
+ 
+[[redirects]]
+  from = "/pagina/sex-shop-ourinhos"
+  to = "/pages/sex-shop-ourinhos-sp"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/sobre"
+  to = "/pages/sobre-a-loja-lov"
+  status = 301
+  force = true
+ 
+[[redirects]]
+  from = "/pagina/trocas"
+  to = "/pages/trocas"
+  status = 301
+  force = true
+
 [build]
   publish = "publish"
   functions = "functions-zip"
