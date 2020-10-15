@@ -1,4 +1,10 @@
 {
+  "browserslist": [
+    "> 0.5%",
+    "not dead",
+    "not ie 11",
+    "not ie_mob 11"
+  ],
   "private": true,
   "name": "@ecomplus/storefront",
   "version": "2.0.0-starter",
@@ -14,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/ecomplus/storefront/issues"
   },
-  "homepage": "https://github.com/ecomplus/storefront#readme",
+  "homepage": "https://developers.e-com.plus/storefront/",
   "keywords": [
     "ecomplus",
     "storefront",
@@ -28,18 +34,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ecomplus/storefront.git"
+    "url": "git+https://github.com/ecomplus/storefront-starter.git"
   },
   "dependencies": {
-    "@ecomplus/storefront-template": "^2.0.0-beta.77"
+    "@ecomplus/storefront-template": "^2.0.0-beta.80",
+    "@netlify/zip-it-and-ship-it": "^1.3.12"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7"
-  },
-  "browserslist": [
-    "> 0.5%",
-    "not dead",
-    "not ie 11",
-    "not ie_mob 11"
-  ]
+    "browser-sync": "^2.26.12"
+  }
 }
