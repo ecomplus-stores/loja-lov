@@ -3,13 +3,14 @@
   "active": false,
   "desktopOnly": false,
   "enableCheckout": true,
+  "disablePages": true,
   "options": {
     "trustvoxStoreId": ""
   },
   "bodyAppend": "src/append/body",
-  "productBlockAppend": "src/append/product-block",
+  "productDescriptionAppend": "src/append/product-block",
   "productCardSlots": "src/append/product-card-slots",
   "productSlots": "src/append/product-slots",
   "stampsAppend": "src/append/stamps",
-  "productDescriptionAppend": "src/append/product-block"
+  "productBlockAppend": "src/append/product-block"
 }
