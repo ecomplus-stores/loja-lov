@@ -47,6 +47,13 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
+      - name: Cache output
+        continue-on-error: true
+        uses: actions/cache@v1
+        with:
+          path: .deploy/publish
+          key: ${{ hashFiles('.bundles.json') }}
+
       - name: Install dependencies
         run: npm ci --only=production
 
@@ -62,7 +69,7 @@ jobs:
         run: |
           IS_ECOMPLUS_CD=$(node -p \
             "const f = JSON.parse('${CHANGED_FILES}'); f.length === 1 && f[0] === '.ecomplus.cd.json'");
-          if [ $IS_ECOMPLUS_CD != false ] && [ -f .bundles.json ]; then
+          if [ $IS_ECOMPLUS_CD != false ] && [ -f .bundles.json ] && [ -f .deploy/publish/index.html ]; then
             BUILD_SLUG=$(node -p "require('./.ecomplus.cd.json').slug || false");
             if [ $BUILD_SLUG != false ]; then
               npm run build -- --prerender=index,$BUILD_SLUG --no-bundler;
@@ -98,8 +105,8 @@ jobs:
 
       - name: Setup output directory to deploy
         run: |
-          mkdir -p .deploy
-          mv dist .deploy/publish
+          mkdir -p .deploy/publish
+          cp -rn dist/* .deploy/publish/
           cp -r .netlify/* .deploy/
           cp -r template .deploy/functions/ssr/
           cp -r content .deploy/functions/ssr/
