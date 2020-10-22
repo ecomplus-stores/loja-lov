@@ -42,7 +42,7 @@
     ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
@@ -55,8 +55,8 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/whatsapp_front_new.webp",
-      "link": "https://api.whatsapp.com/send?phone=5514997129701&text=Ol%C3%A1,%20estou%20na%20Loja%20LOV,%20pode%20me%20ajudar?",
+      "src": "/img/uploads/atendimento_whats.webp",
+      "link": "https://api.whatsapp.com/send?phone=5514997440476&text=Ol%C3%A1,%20estou%20na%20Loja%20LOV,%20pode%20me%20ajudar?",
       "alt": "Dúvidas? Fala com a gente no Whats!"
     },
     {
