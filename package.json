@@ -41,6 +41,6 @@
     "@netlify/zip-it-and-ship-it": "^1.3.12"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.12"
+    "browser-sync": "^2.26.13"
   }
 }
