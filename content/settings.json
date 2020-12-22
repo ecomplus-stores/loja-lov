@@ -1,14 +1,14 @@
 {
-  "store_id": 1073,
-  "name": "Loja Lov",
   "domain": "www.lojalov.com.br",
   "currency_symbol": "R$",
   "primary_color": "#b20000",
   "theme": {
-    "bootswatch": "litera"
+    "bootswatch": "litera",
+    "custom": "_"
   },
   "bg_color": "#9b9b9b",
-  "logo": "/img/uploads/logo.webp",
+  "logo": "/img/uploads/logo_natal.webp",
+  "name": "Loja Lov",
   "short_name": "lojalov",
   "lang": "pt_br",
   "currency": "BRL",
@@ -17,6 +17,7 @@
   "country_code": "BR",
   "secondary_color": "#b20000",
   "icon": "/img/uploads/coracao.png",
+  "store_id": 1073,
   "description": "A Loja LOV é um sex shop em Marília. Trabalhamos com produtos sensuais promovendo prazer e bem-estar.\nSelecionamos as melhores marcas e produtos para facilitar a escolha, garantia de satisfação, agregando valor à sua vida sexual. Tudo isso para lhe oferecer inovação e qualidade de atendimento.\nNa cidade de Marília - SP, oferecemos atendimento individualizado com horário agendado.\nEntregamos para todo Brasil em embalagem discreta via Correios.",
   "large_icon": "/img/uploads/coracao.png"
 }
