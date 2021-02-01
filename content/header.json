@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Loja LOV - Porque a vida é bem melhor com prazer!",
+    "text": "PAGUE COM O PIX VOCÊ GANHE DUAS VEZES: O BANCO TE ISENTA DA TAXA E A LOV TE DA 5% DE DESCONTO!",
     "link": ""
   },
   "contacts_stripe": {
@@ -19,7 +19,8 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 0
+    "random": 0,
+    "full_width": true
   },
   "search_input": true
 }
