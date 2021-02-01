@@ -5,14 +5,17 @@
   },
   "installments": {
     "text": "Parcele em até 12x no cartão",
-    "show": true
+    "show": true,
+    "link": "https://www.lojalov.com.br/pages/pagamentos"
   },
   "exchange": {
     "text": "30 dias para a troca do produto",
-    "show": false
+    "show": false,
+    "link": "https://www.lojalov.com.br/pages/trocas"
   },
   "promo": {
-    "text": "5% de desconto à vista no boleto e/ou Depósito",
-    "show": true
+    "text": "5% de desconto à vista no PIX e/ou Transferência",
+    "show": true,
+    "link": "https://www.lojalov.com.br/pages/pagamentos"
   }
 }
