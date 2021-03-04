@@ -103,9 +103,10 @@ p {
 }
 //Fonte Sem Juros
 .payment-option__installment {
-  li {
-    small:nth-child(2) {
-      color: red !important;
-    }
-  }
+li {
+small:nth-child(2) {
+color: red !important;
+font-weight: bold
+}
+}
 }
