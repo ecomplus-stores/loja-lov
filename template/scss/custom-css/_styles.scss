@@ -101,3 +101,11 @@ p {
   content: 'Finalizar compra';
   margin-left: .2rem;
 }
+//Fonte Sem Juros
+.payment-option__installment {
+  li {
+    small:nth-child(2) {
+      color: red !important;
+    }
+  }
+}
