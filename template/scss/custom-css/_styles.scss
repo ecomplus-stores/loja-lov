@@ -113,7 +113,7 @@ font-weight: bold
 
 
 //Ordem das sub-categorias
-#a-acesssorios_ .menu__list {
+#a-acessorios_ .menu__list {
     display: flex;
     flex-direction: column;
 }
@@ -175,6 +175,7 @@ font-weight: bold
 }
 #c-5f511cb57430f92180eba9db {
     order: 10 !important;
+    border-bottom: 1px solid;
 }
 #c-5ec84082126b0d057214b318 {
     order: 11 !important;
@@ -338,6 +339,6 @@ font-weight: bold
 #c-606f160933554a7d2d3f09cc {
     order: 7 !important;
 }
-.menu-list a {
-border-bottom: 1px solid;
+.menu__item {
+border-bottom: 1px solid !important;
 }
