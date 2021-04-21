@@ -17,6 +17,7 @@ jobs:
   build-and-deploy:
     name: Build Storefront and deploy
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     if: |
       github.event.head_commit.message != 'Initial commit' &&
       !contains(github.event.head_commit.message, '[skip ci]')
@@ -134,8 +135,11 @@ jobs:
         run: |
           mkdir -p .deploy/publish
           cp -r dist/* .deploy/publish/
+          rm -rf .deploy/publish/netlify.toml
           cp -r .netlify/* .deploy/
           cp -r template .deploy/functions/ssr/
+          rm -rf .deploy/functions/ssr/template/public
+          rm -rf .deploy/functions/ssr/template/scss
           cp -r content .deploy/functions/ssr/
           cp .bundles.json .deploy/functions/ssr/bundles.json
           mkdir -p .deploy/functions/ssr/template/pages/@ecomplus/storefront-template/template
