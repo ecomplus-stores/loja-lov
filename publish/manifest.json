@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.656119ade4db24def5c42784f168bfd8.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.65299a794996a9893779c0620f1b58d9.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.b4d692ca7d27e0525d660c8502905bc5.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.212204860bfa200e5d9c24526e9be8b6.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.1589a475a1859726d3d48b7ff6f483c3.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Loja Lov",
+  "short_name": "lojalov",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Loja LOV é um sex shop em Marília. Trabalhamos com produtos sensuais promovendo prazer e bem-estar.\nSelecionamos as melhores marcas e produtos para facilitar a escolha, garantia de satisfação, agregando valor à sua vida sexual. Tudo isso para lhe oferecer inovação e qualidade de atendimento.\nNa cidade de Marília - SP, oferecemos atendimento individualizado com horário agendado.\nEntregamos para todo Brasil em embalagem discreta via Correios.",
+  "background_color": "#ffffff",
+  "theme_color": "#b20000"
+}

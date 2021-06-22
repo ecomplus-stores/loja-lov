@@ -1,0 +1,108 @@
+[[redirects]]
+  from = "/pagina/sex-shop-assis"
+  to = "/pages/sex-shop-assis-sp"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/contato"
+  to = "/pages/contato"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/entrega"
+  to = "/pages/entrega"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/duvidas"
+  to = "/pages/faq"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/pagamento"
+  to = "/pages/pagamentos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/privacidade"
+  to = "/pages/privacidade"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/sex-shop-bauru"
+  to = "/pages/sex-shop-bauru-sp"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/sex-shop-ourinhos"
+  to = "/pages/sex-shop-ourinhos-sp"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/sobre"
+  to = "/pages/sobre-a-loja-lov"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/trocas"
+  to = "/pages/trocas"
+  status = 301
+  force = true
+
+[build]
+  publish = "publish"
+  functions = "functions-zip"
+
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/ssr?slug=:splat"
+  status = 200
+
+[[headers]]
+  for = "/storefront.*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/storefront.js"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/storefront.css"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/checkout.*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/checkout.js"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/chunk.*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=300, s-maxage=60, must-revalidate"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400, s-maxage=600"
