@@ -3,6 +3,11 @@
   "meta_description": "Sex Shop Marília: Entrega rápida e embalagem discreta - Loja LOV. Temos os melhores Produtos Eróticos de Sex Shop em até 12 vezes no Cartão!",
   "sections": [
     {
+      "type": "page-title",
+      "title": "Loja LOV - Sex Shop Marília: Entrega discreta e compra segura",
+      "description": "Loja LOV Sex Shop de Marília e Região. Lubrificantes, vibradores, géis, acessórios, fantasias e muito mais"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 8000,
       "slides": [
