@@ -75,7 +75,7 @@
     "mastercard": true,
     "citibank": false,
     "diners": false,
-    "mais": true,
+    "mais": false,
     "amex": true,
     "itau": false
   },
