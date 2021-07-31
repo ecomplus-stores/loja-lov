@@ -9,9 +9,9 @@
     "link": "https://www.lojalov.com.br/pages/pagamentos"
   },
   "exchange": {
-    "text": "30 dias para a troca do produto",
-    "show": false,
-    "link": "https://www.lojalov.com.br/pages/trocas"
+    "text": "Compre no site e retire da loja Estamos em Marília",
+    "show": true,
+    "link": ""
   },
   "promo": {
     "text": "5% de desconto à vista no PIX e/ou Transferência",
