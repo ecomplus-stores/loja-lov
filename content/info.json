@@ -1,6 +1,6 @@
 {
   "shipping": {
-    "text": "Frete grátis para compras acima de R$ 250,00 (Região sudeste)",
+    "text": "Compre no site e retire da loja - Estamos em Marília/SP",
     "show": true
   },
   "installments": {
@@ -10,7 +10,7 @@
   },
   "exchange": {
     "text": "Compre no site e retire da loja - Estamos em Marília/SP",
-    "show": true,
+    "show": false,
     "link": ""
   },
   "promo": {
