@@ -11,6 +11,14 @@ p {
 .menu__item-icon {
   margin-right: 3.1rem !important;
 }
+
+//busca no mobile
+@media(max-width: 480px) {
+  #search-bar.d-none {
+    display: block !important;
+  }
+}
+
 // color of menu button
 .menu__btn--close i, .menu__btn.btn.collapsed i, .header__search-btn i {
   color: #b20000;
