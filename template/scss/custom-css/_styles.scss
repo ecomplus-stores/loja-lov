@@ -19,6 +19,13 @@ p {
   }
 }
 
+//informações frete personalizado
+.shipping-line>small {
+    display: block;
+  display: -webkit-inline-box
+    overflow: unset !important;
+}
+
 // color of menu button
 .menu__btn--close i, .menu__btn.btn.collapsed i, .header__search-btn i {
   color: #b20000;
