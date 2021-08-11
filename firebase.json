@@ -1,6 +1,11 @@
 {
   "hosting": {
     "redirects": [
+       {
+        "source": "/jogos-eroticos/",
+        "destination": "/jogos-e-brincadeiras-eroticas/",
+        "type": 301
+      }
     ],
     "public": "dist",
     "ignore": [
