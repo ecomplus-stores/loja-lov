@@ -31,11 +31,11 @@
       "shuffle": true,
       "collection_id": "5e691afa7e6552461488537e",
       "sort": "offers",
-      "title": "PRODUTOS COM UM VALOR ESPECIAL"
+      "title": ""
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true,
+      "load_more": false,
       "sort": "views"
     },
     {
