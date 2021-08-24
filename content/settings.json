@@ -1,5 +1,6 @@
 {
   "domain": "www.lojalov.com.br",
+  "repository": "ecomplus-stores/loja-lov",
   "currency_symbol": "R$",
   "primary_color": "#b20000",
   "theme": {
