@@ -35,7 +35,7 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": false,
+      "load_more": true,
       "sort": "views"
     },
     {
