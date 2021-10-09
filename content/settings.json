@@ -1,6 +1,5 @@
 {
   "domain": "www.lojalov.com.br",
-  "repository": "ecomplus-stores/loja-lov",
   "currency_symbol": "R$",
   "primary_color": "#b20000",
   "theme": {
@@ -8,6 +7,7 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/loja-lov",
   "logo": "/img/uploads/logo.webp",
   "name": "Loja Lov",
   "short_name": "lojalov",
@@ -19,6 +19,6 @@
   "secondary_color": "#b20000",
   "icon": "/img/uploads/coracao.png",
   "store_id": 1073,
-  "description": "A Loja LOV é um sex shop em Marília. Trabalhamos com produtos sensuais promovendo prazer e bem-estar.\nSelecionamos as melhores marcas e produtos para facilitar a escolha, garantia de satisfação, agregando valor à sua vida sexual. Tudo isso para lhe oferecer inovação e qualidade de atendimento.\nNa cidade de Marília - SP, oferecemos atendimento individualizado com horário agendado.\nEntregamos para todo Brasil em embalagem discreta via Correios.",
+  "description": "A Lov é a maior sex shop de Marília e região. \nDesde 2016 atuando como loja online e entrega para todo o Brasil, em 2021 inaugurou sua loja física com um conceito inovador.\n\nUm ambiente totalmente discreto, sem fachada proporciona aos clientes a tranquilidade para realizar suas compras sem constrangimentos. O atendimento especializado é feito por sexólogos com total respeito à individualidade de cada pessoa. Oferecemos suporte e orientação quanto a forma de utilização correta de cada produto.\n\nA Lov possui um acervo com aproximadamente 1000 itens cuidadosamente estudados e selecionados para que sua experiência seja segura e prazerosa. Trabalhamos somente com as melhores marcas e produtos totalmente diferenciados. As embalagens são discretas, sem nenhuma identificação de sex shop ou formato do conteúdo.\n\nNosso trabalho é pautado em 4 pilares: ética, competência, transparência e responsabilidade.\nAqui a sua saúde sexual é levada a sério!\n\nLOV - A LOJA MAIS DISCRETA DE MARÍLIA.",
   "large_icon": "/img/uploads/coracao.png"
 }
