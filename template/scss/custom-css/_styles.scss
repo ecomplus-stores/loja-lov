@@ -350,3 +350,46 @@ font-weight: bold
 .menu__item {
 border-bottom: 1px solid !important;
 }
+
+// Adicionar em Layout > Inserir Código > CSS Customizado
+
+.minicart__empty .lead {
+    font-size: 0;
+}
+
+.minicart__empty .lead:after {
+    content: 'Sacola vazia ...';
+    display: block;
+    font-size: calc(1.25788rem + .0945vw);
+    margin-bottom: 16px;
+}
+
+.minicart__aside .card-header{
+    font-size: 0;
+}
+
+.minicart__aside .card-header:after {
+    content: "Minha sacola de compras";
+    font-size: 16px;
+}
+
+#spa .container h1 {
+    font-size: 0;
+}
+
+#spa .container h1::before {
+    display: block;
+    content: 'Minha sacola';
+    font-size: 2rem;
+    color: var(--secondary);
+    font-weight: 500;
+}
+
+.minicart__btn-cart {
+    font-size: 0;
+}
+
+.minicart__btn-cart::after {
+    content: 'Ver sacola';
+    font-size: 1rem;
+}
