@@ -393,3 +393,27 @@ border-bottom: 1px solid !important;
     content: 'Ver sacola';
     font-size: 1rem;
 }
+.cart__empty .lead.text-muted {
+    font-size: 0;
+}
+.cart__empty .lead.text-muted::after {
+    content: 'Sacola vazia ...';
+    font-size: 16px;
+}
+
+.checkout__back .btn.btn-sm.btn-light {
+    font-size: 0;
+}
+
+.checkout__back .btn.btn-sm.btn-light::after {
+    content: 'Voltar à sacola';
+    font-size: .875rem;
+}
+
+.product-card__buy.fade .btn.btn-primary.btn-block {
+    font-size: 0;
+}
+.product-card__buy.fade .btn.btn-primary.btn-block::after {
+    content: 'Adicionar à sacola';
+    font-size: 1rem;
+}
