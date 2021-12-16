@@ -59,6 +59,11 @@
       "src": "/img/uploads/selo_google.webp",
       "link": "https://www.ssllabs.com/ssltest/analyze.html?d=www.lojalov.com.br",
       "alt": "Conexão 100% Segura"
+    },
+    {
+      "src": "/img/uploads/reclame-aqui.png",
+      "alt": "Zero Reclamações",
+      "link": "https://www.reclameaqui.com.br/empresa/loja-lov/"
     }
   ],
   "payment_methods": {
@@ -76,7 +81,7 @@
     "citibank": false,
     "diners": false,
     "mais": false,
-    "amex": true,
+    "amex": false,
     "itau": false
   },
   "credits": "© 2016 - 2021 Loja LOV • Porque a vida é bem melhor com prazer! • CNPJ: 32.868.856/0001-70 - Todos os direitos reservados. Proibida reprodução total ou parcial."
