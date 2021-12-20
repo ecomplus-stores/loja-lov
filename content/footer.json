@@ -51,11 +51,6 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/atendimento_whats.webp",
-      "link": "https://api.whatsapp.com/send?phone=5514997209195",
-      "alt": "Dúvidas? Fala com a gente no Whats!"
-    },
-    {
       "src": "/img/uploads/selo_google.webp",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=lojalov.com.br&hl=pt_BR",
       "alt": "Conexão 100% Segura"
