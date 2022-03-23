@@ -87,19 +87,17 @@ const hasMegamenu = header.desktop_megamenu
                 class="whatsapp-link"
                 data-tel="<%= contacts.whatsapp.replace(/\D/g, '') %>"
               >
-                <i class="fab fa-whatsapp"></i>
+                <i class="i-whatsapp"></i>
                 <%= contacts.whatsapp %>
               </a>
             <% } %>
             <% if (contacts.phone) { %>
               <a
-                href="javascript:;"
+                href="tel:+<%= contacts.phone.replace(/\D/g, '') %>"
                 target="_blank"
                 rel="noopener"
-                class="whatsapp-link"
-                data-tel="<%= contacts.phone.replace(/\D/g, '') %>"
               >
-                <i class="fab fa-whatsapp"></i>
+                <i class="i-phone"></i>
                 <%= contacts.phone %>
               </a>
             <% } %>
@@ -110,7 +108,7 @@ const hasMegamenu = header.desktop_megamenu
             <% networks.forEach(network => { %>
               <% if (contacts[network]) { %>
                 <a href="<%= contacts[network] %>" target="_blank" rel="noopener">
-                  <i class="fab fa-<%= network %>"></i>
+                  <i class="i-<%= network %>"></i>
                 </a>
               <% } %>
             <% }) %>
@@ -131,7 +129,7 @@ const hasMegamenu = header.desktop_megamenu
           onclick="toggleSidenav()"
           aria-label="Toggle side navigation"
         >
-          <i class="header__toggler-icon fas fa-bars"></i>
+          <i class="header__toggler-icon i-bars"></i>
           <% if (!categories.length) { %>
             <span class="d-none d-lg-inline">
               Menu
@@ -152,7 +150,7 @@ const hasMegamenu = header.desktop_megamenu
           role="group"
           aria-label="<%= _.dictionary('myAccount') %>"
         >
-           <button
+          <button
             class="d-lg-none btn btn-lg"
             id="mobile-search-btn"
             type="button"
@@ -163,9 +161,9 @@ const hasMegamenu = header.desktop_megamenu
             aria-controls="search-bar"
             title="<%= _.dictionary('searchProducts') %>"
           >
-            <i class="fas fa-search"></i>
+            <i class="i-search"></i>
           </button>
-          
+
           <a
             id="user-button"
             class="btn btn-lg"
@@ -173,7 +171,7 @@ const hasMegamenu = header.desktop_megamenu
             href="/app/#/account/"
             title="<%= _.dictionary('myAccount') %>"
           >
-            <i class="fas fa-user"></i>
+            <i class="i-user"></i>
           </a>
           <a
             id="cart-button"
@@ -182,7 +180,7 @@ const hasMegamenu = header.desktop_megamenu
             href="/app/#/cart"
             title="Minha Sacola"
           >
-            <i class="fas fa-shopping-bag"></i>
+            <i class="i-shopping-bag"></i>
             <span id="cart-count" class="badge badge-primary"></span>
           </a>
         </div>
@@ -227,7 +225,7 @@ const hasMegamenu = header.desktop_megamenu
               class="header__search-btn"
               aria-label="<%= _.dictionary('searchProducts') %>"
             >
-              <i class="fas fa-search"></i>
+              <i class="i-search"></i>
             </button>
             <div id="instant-search">
               <!--
