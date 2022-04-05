@@ -5,6 +5,7 @@
   "options": {
     "buyText": "Colocar na Sacola",
     "buy": "",
+    "strHasQuantitySelector": "_",
     "lowQuantityToWarn": 12,
     "maxVariationOptionsBtns": 6
   }
