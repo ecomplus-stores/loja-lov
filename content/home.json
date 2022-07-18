@@ -9,11 +9,12 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/frete_gratis_full.webp",
+          "img": "/img/uploads/banner-site.webp",
           "mobile_img": "/img/uploads/frete_gratis_mobile.webp",
-          "alt": "Frete Grátis nas compras acima de R$ 250,00 para região Sudeste"
+          "alt": "Embalagem discreta e entrega personalizada"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "info-bar",
