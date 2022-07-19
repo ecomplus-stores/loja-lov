@@ -1,11 +1,11 @@
 {
   "shipping": {
-    "text": "Compre no site e retire da loja - Estamos em Marília/SP",
+    "text": "Envio para todo o Brasil via correios",
     "show": true
   },
   "installments": {
     "text": "Parcele em até 12x no cartão",
-    "show": true,
+    "show": false,
     "link": "https://www.lojalov.com.br/pages/pagamentos"
   },
   "exchange": {
@@ -15,7 +15,7 @@
   },
   "promo": {
     "text": "5% de desconto à vista no PIX e/ou Transferência",
-    "show": true,
+    "show": false,
     "link": "https://www.lojalov.com.br/pages/pagamentos"
   }
 }
