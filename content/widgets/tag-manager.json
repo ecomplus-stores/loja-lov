@@ -1,7 +1,7 @@
 {
   "pkg": "@ecomplus/widget-tag-manager",
   "active": true,
-  "desktopOnly": true,
+  "desktopOnly": false,
   "enableCheckout": true,
   "options": {
     "gtmContainerId": "GTM-TW6CG8Q",
