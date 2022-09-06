@@ -77,7 +77,7 @@ p {
   order: 3
 }
 .shipping-calculator__services:after {
-    content: "Ganhe o FRETE GRÁTIS em compras a partir de R$ 300,00 \A *PARA SÃO PAULO";
+    content: "Ganhe o FRETE GRÁTIS em compras a partir de R$ 300,00 \A *PARA  ESTADO DE SÃO PAULO";
     white-space: pre;
     font-weight: 500;
     font-size: 12px;
@@ -257,23 +257,26 @@ font-weight: bold
     display: flex;
     flex-direction: column;
 }
-#c-5ec8425d126b0d057214b384 {
+#c-63163aa473321213f867b111 {
     order: 1 !important;
 }
-#c-5ec841ed126b0d057214b36e {
+#c-5ec8425d126b0d057214b384 {
     order: 2 !important;
 }
-#c-5ec8424c126b0d057214b37f {
+#c-5ec841ed126b0d057214b36e {
     order: 3 !important;
 }
-#c-5ec841e0126b0d057214b36a {
+#c-5ec8424c126b0d057214b37f {
     order: 4 !important;
 }
-#c-5ec841fc126b0d057214b371 {
+#c-5ec841e0126b0d057214b36a {
     order: 5 !important;
 }
-#c-5f2d734ff023684cdbd82b2b {
+#c-5ec841fc126b0d057214b371 {
     order: 6 !important;
+}
+#c-5f2d734ff023684cdbd82b2b {
+    order: 7 !important;
 }
 
 #a-pompoarismo_ .menu__list {
