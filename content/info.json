@@ -1,16 +1,16 @@
 {
   "shipping": {
-    "text": "Envio para todo o Brasil via correios",
+    "text": "",
     "show": false,
     "link": ""
   },
   "installments": {
-    "text": "Parcele em até 12x no cartão",
+    "text": "",
     "show": false,
-    "link": "https://www.lojalov.com.br/pages/pagamentos"
+    "link": ""
   },
   "exchange": {
-    "text": "Conheça o Blog da Fernanda Viana",
+    "text": "Saiba mais sobre sexualidade",
     "show": true,
     "link": "https://fernandaviana.com.br/index.php/blog/"
   },
