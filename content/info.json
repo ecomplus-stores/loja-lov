@@ -1,7 +1,8 @@
 {
   "shipping": {
     "text": "Envio para todo o Brasil via correios",
-    "show": true
+    "show": false,
+    "link": ""
   },
   "installments": {
     "text": "Parcele em até 12x no cartão",
@@ -9,9 +10,9 @@
     "link": "https://www.lojalov.com.br/pages/pagamentos"
   },
   "exchange": {
-    "text": "Compre no site e retire da loja - Estamos em Marília/SP",
-    "show": false,
-    "link": ""
+    "text": "Conheça o Blog da Fernanda Viana",
+    "show": true,
+    "link": "https://fernandaviana.com.br/index.php/blog/"
   },
   "promo": {
     "text": "5% de desconto à vista no PIX e/ou Transferência",
