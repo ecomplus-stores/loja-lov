@@ -5,7 +5,8 @@
   "enableCheckout": true,
   "options": {
     "gtmContainerId": "GTM-TW6CG8Q",
-    "dataLayerVar": "dataLayer"
+    "dataLayerVar": "dataLayer",
+    "partytown": false
   },
   "headAppend": "src/append/head",
   "bodyAppend": "src/append/body"
