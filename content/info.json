@@ -6,12 +6,13 @@
   },
   "installments": {
     "text": "",
-    "show": false,
-    "link": ""
+    "show": true,
+    "link": "",
+    "title": "Suas compras em até 12x no cartão"
   },
   "exchange": {
     "text": "Saiba mais sobre sexualidade",
-    "show": true,
+    "show": false,
     "link": "https://fernandaviana.com.br/index.php/blog/"
   },
   "promo": {
