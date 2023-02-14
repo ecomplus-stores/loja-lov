@@ -33,5 +33,7 @@
     "full_width": true
   },
   "search_input": true,
-  "desktop_megamenu": true
+  "desktop_megamenu": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
