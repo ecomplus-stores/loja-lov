@@ -24,11 +24,11 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "5e691ad87e65524614885379:collections:NOVIDADES:/novidades",
       "sort": "news",
       "title": "NOVIDADES SUPER QUENTES",
       "autoplay": 5000,
-      "limit": 20
+      "limit": ""
     },
     {
       "type": "collection-shelf",
