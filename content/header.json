@@ -19,6 +19,7 @@
   },
   "categories_list": {
     "featured": [
+      "/promocao?PROMOÇÃO",
       "/acessorios/?ACESSÓRIOS",
       "/cosmeticos/?COSMÉTICOS",
       "/kits-e-presentes?KITS E PRESENTES",
@@ -27,8 +28,7 @@
       "/proteses/?PRÓTESES",
       "/pompoarismo/?POMPOARISMO",
       "/sado-e-fetiche/?SADO E FETICHE",
-      "/vibrador/?VIBRADOR",
-      "/promocao?PROMOÇÃO"
+      "/vibrador/?VIBRADOR"
     ],
     "random": 0,
     "full_width": true
