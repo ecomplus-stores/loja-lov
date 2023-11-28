@@ -5,6 +5,11 @@
         "source": "/jogos-eroticos/",
         "destination": "/jogos-e-brincadeiras-eroticas/",
         "type": 301
+      },
+      {
+        "source": "/promocao",
+        "destination": "/ofertas",
+        "type": 301
       }
     ],
     "public": "dist",
