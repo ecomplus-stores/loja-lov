@@ -49,11 +49,10 @@
     <%
       const search = new _.EcomSearch()
       search.setSortOrder('offers')
+      search.setPageSize(300)
       await search.fetch()
-      const allItems = await search.getItems().filter(item => _.ecomUtils.onPromotion(item))
-      search.setPageSize(allItems.length)
-      search.setSortOrder('offers')
       const items = await search.getItems().filter(item => _.ecomUtils.onPromotion(item))
+
     %>
     <div class="grid-retail">
       <div class="container">
