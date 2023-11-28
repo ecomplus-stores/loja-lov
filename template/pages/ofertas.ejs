@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="<%= _.lang.replace('_', '-') %>" dir="ltr">
+
+<head>
+  <%- await include('@/head') %>
+</head>
+
+<body id="page-promo">
+  <%- await include('@/layout/menu') %>
+
+  <main role="main" id="main">
+    <%- await include('@/layout/header') %>
+    <article id="content" class="page page--promocao">
+  <div class="sections pb-1 pb-sm-2 pb-lg-4">
+  <div class="container">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb my-2 my-sm-3 d-none d-md-flex">
+        <li class="breadcrumb-item d-none d-md-block">
+          <a href="/">
+            <i class="fas fa-home"></i>
+          </a>
+        </li>
+
+
+            <li class="breadcrumb-item d-none d-md-block active" aria-current="page">
+              Ofertas
+            </li>
+
+
+      </ol>
+    </nav>
+  </div>
+
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.lojalov.com.br","name":"Homepage"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.lojalov.com.brpromocao","name":"Promocao"}}]}</script>
+
+
+
+
+  <div class="page-title container mt-4 mb-4 mb-lg-5">
+    <div class="page-title__head">
+
+      <h1 class="my-0">
+        Ofertas
+      </h1>
+    </div>
+
+  </div>
+
+    <%
+      const search = new _.EcomSearch()
+      search.setSortOrder('offers')
+      await search.fetch()
+      const allItems = await search.getItems().filter(item => _.ecomUtils.onPromotion(item))
+      search.setPageSize(allItems.length)
+      search.setSortOrder('offers')
+      const items = await search.getItems().filter(item => _.ecomUtils.onPromotion(item))
+    %>
+    <div class="grid-retail">
+      <div class="container">
+        <% if (items.length) { %>
+          <article class="search-engine__retail">
+            <div class="row">
+              <% for (let i = 0; i < items.length; i++) { %>
+                <div class="col-6 col-md-4 col-lg-3">
+                  <%- await include('@/sections/inc/product-item', {
+                    _, opt: { item: items[i] }
+                  }) %>
+                </div>
+              <% } %>
+            </div>
+          </article>
+        <% } %>
+      </div>
+    </div>
+  </div>
+</article>
+    <%- await include('@/layout/footer') %>
+  </main>
+
+  <%- await include('@/json') %>
+  <%- await include('@/scripts') %>
+</body>
+
+</html>
