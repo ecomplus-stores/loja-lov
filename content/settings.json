@@ -1,7 +1,7 @@
 {
   "domain": "www.lojalov.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#62b0b3",
+  "primary_color": "#2c1050",
   "theme": {
     "bootswatch": "litera",
     "custom": "_"
