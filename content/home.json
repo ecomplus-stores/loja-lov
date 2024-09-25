@@ -40,7 +40,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<h3 style=\"color: red; text-align: center;\">\n\t\t\t<span style=\"color:#9D0B0B;\"><span style=\"font-family:verdana,geneva,sans-serif;\">VEJA TODOS OS NOSSOS PRODUTOS</span></span></h3>"
+      "markdown": "<h3 style=\"color: red; text-align: center;\">\n\t\t\t<span style=\"color:#2c1050;\"><span style=\"font-family:verdana,geneva,sans-serif;\">VEJA TODOS OS NOSSOS PRODUTOS</span></span></h3>"
     },
     {
       "type": "dynamic-showcase",
