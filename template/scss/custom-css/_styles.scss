@@ -1,8 +1,4 @@
 // Add your custom CSS here.
-// Fonte loja
-p {
-  font-family: $font-family-sans-serif;
-}
 // icon size
 .menu__item-icon > img {
   max-width: 240% !important;
@@ -41,11 +37,11 @@ p {
   font-size: 0.80rem;
   font-weight: bold;
   padding:  0.5rem;
-  color: #9d0b0b !important;
+  color: #2c1050 !important;
 }
 .products-carousel__title {
   text-transform: uppercase;
-  color: #9D0B0B;
+  color: #2c1050;
   font-weight: 700;
 }
 .prices.product-card__prices {
@@ -64,7 +60,7 @@ p {
 }
 .prices .prices__installments span {
   font-size: var(--font-size-lg);
-  color: #b20000;
+  color: #2c1050;
 }
 .prices .prices__installments span::before {
   font-size: var(--font-size);
