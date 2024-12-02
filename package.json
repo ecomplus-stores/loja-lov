@@ -47,7 +47,7 @@
     "lottie-web": "^5.12.2"
   },
   "devDependencies": {
-    "browser-sync": "^2.29.3",
+    "browser-sync": "^3.0.3",
     "standard": "^17.1.0"
   }
 }
