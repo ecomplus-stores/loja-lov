@@ -13,12 +13,12 @@
       "enabled": true
     },
     {
-      "type": "related-products",
-      "title": "Produtos que você vai gostar"
-    },
-    {
       "type": "product-specifications",
       "enabled": true
+    },
+    {
+      "type": "related-products",
+      "title": "Produtos que você vai gostar"
     },
     {
       "type": "custom-html",
