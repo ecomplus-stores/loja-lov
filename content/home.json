@@ -57,6 +57,15 @@
       "sort": "views"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1.png",
+          "link": "https://www.lojalov.com.br/lov-day"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5e691afa7e6552461488537e:collections:PROMOÇÃO:/promocao",
