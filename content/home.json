@@ -69,7 +69,8 @@
         },
         {
           "img": "/img/uploads/3.png",
-          "link": ""
+          "link": "https://www.lojalov.com.br/search?term=",
+          "alt": "Veja todos os nossos produtos"
         }
       ]
     },
