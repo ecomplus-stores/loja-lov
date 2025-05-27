@@ -9,10 +9,15 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-de-site-de-frete-gratis-para-loja.png",
-          "mobile_img": "",
-          "alt": "Embalagem discreta e entrega personalizada",
-          "link": "https://goo.gl/maps/RPzXRDcFpt7T3h8q7"
+          "img": "/img/uploads/banner-frete-gratis-moderno-azul.png",
+          "mobile_img": "/img/uploads/banner-quadrado-love-day-alan-alanbruno-1-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-whatsapp-decolasexshop.png",
+          "link": "https://wa.me/14997129701?text=Ol%C3%A1,%20estou%20no%20site!%20Voc%C3%AA%20pode%20me%20ajudar?",
+          "mobile_img": "/img/uploads/banner-quadrado-love-day-alan-alanbruno-2-.png"
         }
       ],
       "full_width": true
