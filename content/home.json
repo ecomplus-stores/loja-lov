@@ -18,10 +18,6 @@
       "full_width": true
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5e691ad87e65524614885379:collections:NOVIDADES:/novidades",
@@ -31,14 +27,6 @@
       "limit": ""
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5e691afa7e6552461488537e:collections:PROMOÇÃO:/promocao",
-      "sort": "offers",
-      "title": "PROMOÇÃO",
-      "autoplay": 5000
-    },
-    {
       "type": "custom-content",
       "markdown": "<h3 style=\"color: red; text-align: center;\">\n\t\t\t<span style=\"color:#2c1050;\"><span style=\"font-family:verdana,geneva,sans-serif;\">VEJA TODOS OS NOSSOS PRODUTOS</span></span></h3>"
     },
@@ -46,6 +34,14 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5e691afa7e6552461488537e:collections:PROMOÇÃO:/promocao",
+      "sort": "offers",
+      "title": "PROMOÇÃO",
+      "autoplay": 5000
     },
     {
       "type": "custom-content",
