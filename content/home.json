@@ -62,7 +62,8 @@
       "banners": [
         {
           "img": "/img/uploads/1.png",
-          "link": "https://www.lojalov.com.br/lov-day"
+          "link": "https://www.lojalov.com.br/lov-day",
+          "alt": "Kits com os melhores produtos escolhidos para você comemorar o dia dos namorados"
         },
         {
           "img": "/img/uploads/2.png",
