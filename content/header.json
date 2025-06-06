@@ -19,7 +19,7 @@
   },
   "categories_list": {
     "featured": [
-      "/promocao?PROMOÇÃO",
+      "/lov-day?Lov Day",
       "/vibrador/?VIBRADOR",
       "/acessorios/?ACESSÓRIOS",
       "/cosmeticos/?COSMÉTICOS",
@@ -29,7 +29,7 @@
       "/proteses/?PRÓTESES",
       "/sado-e-fetiche/?SADO E FETICHE"
     ],
-    "random": 2,
+    "random": 1,
     "full_width": true
   },
   "search_input": true,
